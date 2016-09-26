@@ -1,0 +1,559 @@
+docId,filename,top topics, and contribution to doc ...
+1,/Users/akash/Downloads/Datasets/./WikiRef_dataset/.DS_Store,20,0.965
+2,/Users/akash/Downloads/Datasets/./WikiRef_dataset/readme.txt,33,0.348,45,0.085,48,0.061,30,0.055
+3,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/barack.obama.1.txt,43,0.641,19,0.116
+4,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/barack.obama.24.txt,4,0.986
+5,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/barack.obama.3.txt,50,0.859
+6,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/barack.obama.4.txt,9,0.653,50,0.141,29,0.053
+7,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/barack.obama.9.txt,50,0.673,43,0.061
+8,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/cypriot.financial.crisis.36.txt,3,0.958
+9,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/cypriot.financial.crisis.37.txt,3,0.974
+10,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/cypriot.financial.crisis.38.txt,3,0.904
+11,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/cypriot.financial.crisis.39.txt,3,0.765,10,0.137
+12,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/cypriot.financial.crisis.40.txt,3,0.868
+13,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/debt.crisis.greece.178.txt,10,0.679,7,0.148,27,0.068
+14,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/debt.crisis.greece.179.txt,17,0.922
+15,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/debt.crisis.greece.207.txt,5,0.507,10,0.207,27,0.139,7,0.076
+16,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/debt.crisis.greece.263.txt,10,0.907
+17,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/debt.crisis.greece.81.txt,10,0.761,27,0.076
+18,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/greek.elections.112.txt,7,0.514,27,0.294,10,0.104
+19,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/greek.elections.113.txt,7,0.783,27,0.111
+20,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/greek.elections.114.txt,7,0.738,27,0.203
+21,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/greek.elections.115.txt,7,0.827,27,0.092
+22,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/greek.elections.117.txt,27,0.920
+23,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/malaysia.airlines.flight.10.txt,45,0.847
+24,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/malaysia.airlines.flight.13.txt,46,0.772,45,0.125
+25,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/malaysia.airlines.flight.14.txt,46,0.825,45,0.138
+26,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/malaysia.airlines.flight.15.txt,46,0.750,45,0.187
+27,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/malaysia.airlines.flight.9.txt,45,0.869,46,0.060
+28,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.100.txt,15,0.924
+29,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.101.txt,8,0.704,30,0.078,20,0.066
+30,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.102.txt,43,0.530,13,0.067,11,0.061,30,0.055
+31,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.103.txt,23,0.551,15,0.129,17,0.061
+32,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.109.txt,17,0.605,15,0.147,30,0.109
+33,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.111.txt,19,0.531,44,0.082,30,0.075
+34,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.113.txt,5,0.493,30,0.110,19,0.082
+35,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.114.txt,19,0.682,8,0.178
+36,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.115.txt,20,0.347,19,0.235
+37,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.118.txt,19,0.821
+38,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.12.txt,2,0.977
+39,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.122.txt,30,0.535,20,0.140,33,0.093
+40,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.123.txt,33,0.678,38,0.099,30,0.082
+41,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.127.txt,38,0.948
+42,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.130.txt,20,0.911
+43,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.138.txt,38,0.744,30,0.094
+44,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.139.txt,38,0.669,30,0.146
+45,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.142.txt,40,0.638,15,0.124,30,0.105
+46,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.144.txt,8,0.458,43,0.227,44,0.097
+47,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.146.txt,20,0.440,30,0.329,43,0.052
+48,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.15.txt,48,0.756,19,0.114,30,0.082
+49,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.20.txt,19,0.815,50,0.054
+50,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.22.txt,15,0.768,30,0.140
+51,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.23.txt,43,0.638,19,0.215,44,0.056
+52,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.56.txt,8,0.287,30,0.256,19,0.161,50,0.055
+53,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.62.txt,50,0.643,30,0.190,19,0.053
+54,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.64.txt,44,0.605,30,0.241
+55,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.67.txt,8,0.360,44,0.220,43,0.212,19,0.056
+56,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.70.txt,9,0.775,30,0.102,19,0.095
+57,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.73.txt,44,0.653,30,0.208,9,0.056
+58,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.75.txt,30,0.919
+59,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.79.txt,5,0.592,30,0.262,43,0.076
+60,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.80.txt,50,0.647,30,0.174,5,0.076
+61,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.83.txt,43,0.733,30,0.083
+62,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.86.txt,30,0.620,8,0.217,44,0.058
+63,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.9.txt,30,0.747,9,0.073
+64,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.95.txt,19,0.727,8,0.106,15,0.094
+65,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/michelle.obama.98.txt,15,0.881
+66,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/NBA.draft.2.txt,33,0.975
+67,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.125.txt,34,0.789
+68,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.126.txt,29,0.577,31,0.354,34,0.068
+69,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.133.txt,34,0.400,22,0.156,14,0.141,35,0.067
+70,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.134.txt,23,0.565,22,0.313,35,0.055
+71,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.137.txt,23,0.652,22,0.244
+72,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.140.txt,35,0.853
+73,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.141.txt,16,0.612,35,0.299
+74,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.142.txt,35,0.829
+75,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.143.txt,35,0.874
+76,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.17.txt,14,0.786,16,0.114
+77,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.21.txt,14,0.520,35,0.238,34,0.091
+78,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.22.txt,44,0.382,22,0.229,14,0.223,35,0.057
+79,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.25.txt,34,0.685,22,0.092
+80,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.26.txt,22,0.463,12,0.060,7,0.060
+81,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.29.txt,22,0.447,34,0.296,14,0.088
+82,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.3.txt,23,0.487,22,0.369
+83,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.4.txt,36,0.485,22,0.243,23,0.152
+84,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.40.txt,14,0.869,35,0.076
+85,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.44.txt,22,0.699
+86,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.5.txt,25,0.685,22,0.232
+87,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.54.txt,23,0.714,35,0.053
+88,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.55.txt,23,0.337,22,0.307,41,0.079,10,0.079
+89,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.56.txt,36,0.530,22,0.190,23,0.142
+90,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.61.txt,22,0.728
+91,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.63.txt,22,0.795
+92,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.64.txt,22,0.590,35,0.117,23,0.059
+93,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.68.txt,22,0.737
+94,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.72.txt,22,0.789
+95,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.73.txt,22,0.420,36,0.167,25,0.155,14,0.082
+96,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.77.txt,25,0.492,22,0.341
+97,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.78.txt,36,0.700,22,0.156
+98,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.79.txt,36,0.694,22,0.220
+99,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.87.txt,35,0.737,22,0.089,14,0.075
+100,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.89.txt,4,0.633,22,0.109,35,0.075,14,0.068,31,0.061
+101,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.9.txt,14,0.634,34,0.056
+102,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.92.txt,16,0.940
+103,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/premier.league.96.txt,14,0.936
+104,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/Rolling.Stones.197.txt,5,0.729,34,0.068
+105,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.1.txt,41,0.455,28,0.282,37,0.099,26,0.094
+106,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.13.txt,17,0.438,39,0.174,1,0.083,28,0.074
+107,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.14.txt,26,0.470,21,0.240,37,0.075,12,0.060,28,0.051
+108,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.15.txt,26,0.515,21,0.359
+109,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.16.txt,26,0.450,21,0.249,28,0.132
+110,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.19.txt,26,0.459,21,0.360
+111,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.2.txt,37,0.787,28,0.203
+112,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.21.txt,26,0.756,6,0.096
+113,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.22.txt,6,0.950
+114,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.25.txt,26,0.220,21,0.203,6,0.203,1,0.102,28,0.068,5,0.051
+115,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.26.txt,26,0.625,12,0.086,37,0.072,6,0.064
+116,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.27.txt,12,0.589,21,0.089,39,0.054
+117,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.28.txt,12,0.987
+118,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.29.txt,39,0.749
+119,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.3.txt,26,0.389,1,0.264,21,0.100,28,0.098
+120,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.30.txt,39,0.934
+121,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.31.txt,17,0.585,21,0.203,1,0.057
+122,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.32.txt,17,0.636,21,0.125,1,0.057
+123,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.33.txt,17,0.662,21,0.150
+124,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.34.txt,39,0.418,21,0.341
+125,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.35.txt,21,0.636,26,0.132,28,0.053
+126,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.36.txt,39,0.750,1,0.070,12,0.055
+127,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.37.txt,42,0.716,21,0.172,28,0.056
+128,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.38.txt,42,0.694,21,0.137,12,0.063,28,0.061
+129,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.39.txt,42,0.708,21,0.083
+130,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.4.txt,18,0.538,21,0.403,28,0.055
+131,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.40.txt,42,0.633,21,0.199,26,0.096
+132,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.41.txt,1,0.894
+133,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.42.txt,1,0.636,25,0.054,5,0.054
+134,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.43.txt,1,0.794
+135,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.44.txt,39,0.444,1,0.330
+136,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.45.txt,1,0.828
+137,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.47.txt,1,0.770
+138,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.6.txt,18,0.495,39,0.136,41,0.087,1,0.068
+139,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/samsung.galaxy.s5.7.txt,28,0.657,21,0.204,26,0.075
+140,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/smartphone.107.txt,12,0.407,39,0.247,44,0.175
+141,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/smartphone.129.txt,6,0.639,39,0.095
+142,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/smartphone.74.txt,1,0.567,39,0.080,6,0.073
+143,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/smartphone.78.txt,1,0.873
+144,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/smartphone.95.txt,1,0.766
+145,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/stephen.hawking.275.txt,41,0.893
+146,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/tohoku.earthquake.tsunami.12.txt,40,0.591,24,0.249
+147,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/tohoku.earthquake.tsunami.14.txt,24,0.655,40,0.121,10,0.076
+148,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/tohoku.earthquake.tsunami.3.txt,24,0.964
+149,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/tohoku.earthquake.tsunami.8.txt,24,0.746
+150,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/tohoku.earthquake.tsunami.9.txt,24,0.879
+151,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/U2.149.txt,5,0.783
+152,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef150/wall.street.51.txt,25,0.948
+153,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/barack.obama.1.txt,43,0.702,19,0.127
+154,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/barack.obama.24.txt,4,0.978
+155,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/barack.obama.3.txt,50,0.855
+156,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/barack.obama.4.txt,9,0.671,50,0.135,29,0.053
+157,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/barack.obama.9.txt,50,0.694
+158,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/cypriot.financial.crisis.36.txt,3,0.937
+159,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/cypriot.financial.crisis.37.txt,3,0.983
+160,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/cypriot.financial.crisis.38.txt,3,0.885
+161,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/cypriot.financial.crisis.39.txt,3,0.740,10,0.159
+162,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/cypriot.financial.crisis.40.txt,3,0.868
+163,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/debt.crisis.greece.178.txt,10,0.681,7,0.158,27,0.066
+164,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/debt.crisis.greece.179.txt,17,0.916
+165,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/debt.crisis.greece.207.txt,5,0.502,10,0.190,27,0.141,7,0.083
+166,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/debt.crisis.greece.263.txt,10,0.921
+167,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/debt.crisis.greece.81.txt,10,0.751
+168,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/greek.elections.112.txt,7,0.520,27,0.281,10,0.093
+169,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/greek.elections.113.txt,7,0.778,27,0.116
+170,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/greek.elections.114.txt,7,0.738,27,0.200
+171,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/greek.elections.115.txt,7,0.820,27,0.111
+172,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/greek.elections.117.txt,27,0.924
+173,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/malaysia.airlines.flight.10.txt,45,0.840
+174,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/malaysia.airlines.flight.13.txt,46,0.793,45,0.130
+175,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/malaysia.airlines.flight.14.txt,46,0.831,45,0.126
+176,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/malaysia.airlines.flight.15.txt,46,0.753,45,0.182
+177,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/malaysia.airlines.flight.9.txt,45,0.871
+178,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.100.txt,15,0.947
+179,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.101.txt,8,0.687,30,0.103,20,0.082
+180,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.102.txt,43,0.518,11,0.073,25,0.067,13,0.067
+181,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.103.txt,23,0.531,15,0.082,17,0.075,43,0.061
+182,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.109.txt,17,0.610,15,0.186,30,0.101
+183,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.111.txt,19,0.544,10,0.061,30,0.054
+184,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.113.txt,5,0.479,19,0.151,43,0.068,30,0.055
+185,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.114.txt,19,0.678,8,0.161
+186,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.115.txt,20,0.316,19,0.214,30,0.061
+187,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.118.txt,19,0.817
+188,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.12.txt,2,0.991
+189,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.122.txt,30,0.442,33,0.140,47,0.093,38,0.093,50,0.070
+190,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.123.txt,33,0.667,38,0.094,30,0.064
+191,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.127.txt,38,0.955
+192,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.130.txt,20,0.894
+193,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.138.txt,38,0.813,30,0.081
+194,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.139.txt,38,0.669,30,0.199
+195,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.142.txt,40,0.610,15,0.124,30,0.067
+196,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.144.txt,8,0.455,43,0.218,50,0.090,44,0.090
+197,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.146.txt,20,0.455,30,0.318
+198,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.15.txt,48,0.761,30,0.131
+199,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.20.txt,19,0.792,50,0.071
+200,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.22.txt,15,0.759,30,0.156
+201,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.23.txt,43,0.638,19,0.226,44,0.056
+202,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.56.txt,8,0.295,30,0.291,19,0.102,28,0.059,15,0.055
+203,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.62.txt,50,0.631,30,0.203,19,0.072
+204,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.64.txt,44,0.626,30,0.256
+205,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.67.txt,8,0.360,43,0.223,44,0.215
+206,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.70.txt,9,0.789,19,0.099,30,0.092
+207,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.73.txt,44,0.648,30,0.228,9,0.053
+208,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.75.txt,30,0.915
+209,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.79.txt,5,0.610,30,0.275,43,0.065
+210,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.80.txt,50,0.639,30,0.166,5,0.097
+211,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.83.txt,43,0.717,30,0.117
+212,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.86.txt,30,0.625,8,0.221,44,0.065
+213,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.9.txt,30,0.730,9,0.080
+214,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.95.txt,19,0.760,8,0.088,15,0.073
+215,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/michelle.obama.98.txt,15,0.920
+216,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/NBA.draft.2.txt,33,0.978
+217,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (1).txt,32,0.438,13,0.205,11,0.138,49,0.093
+218,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (10).txt,13,0.662,47,0.159,49,0.066
+219,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (11).txt,32,0.635,11,0.189,47,0.122
+220,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (12).txt,49,0.309,32,0.223,13,0.139,11,0.121,47,0.055
+221,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (13).txt,48,0.573,13,0.131,47,0.110
+222,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (14).txt,32,0.500,47,0.222,13,0.106
+223,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (15).txt,13,0.400,47,0.386
+224,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (16).txt,47,0.554,13,0.307
+225,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (17).txt,47,0.273,13,0.227,49,0.170,36,0.151
+226,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (18).txt,36,0.400,47,0.220,13,0.121
+227,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (19).txt,47,0.239,36,0.239,49,0.070,16,0.070,46,0.061,13,0.061
+228,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (2).txt,43,0.272,47,0.136,13,0.098,46,0.092,49,0.082,32,0.065
+229,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (20).txt,47,0.367,49,0.347,5,0.080
+230,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (21).txt,49,0.497,13,0.179,32,0.162,11,0.107
+231,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (22).txt,8,0.601,13,0.162,11,0.155
+232,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (23).txt,11,0.749,32,0.067,13,0.050
+233,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (24).txt,11,0.827
+234,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (25).txt,41,0.672,13,0.076,27,0.057
+235,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (26).txt,32,0.547,11,0.225,47,0.152
+236,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (27).txt,32,0.454,47,0.250,11,0.171
+237,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (28).txt,32,0.412,11,0.250,47,0.104
+238,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (29).txt,47,0.321,13,0.258,32,0.177,11,0.094
+239,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (3).txt,32,0.321,47,0.287,13,0.125,11,0.101,49,0.082
+240,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (30).txt,13,0.311,11,0.282,32,0.155,47,0.068
+241,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (31).txt,32,0.343,47,0.214,11,0.152,13,0.092
+242,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (32).txt,13,0.277,32,0.244,11,0.125,47,0.075
+243,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (33).txt,13,0.277,32,0.202,49,0.180,11,0.086,40,0.060,45,0.052
+244,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (34).txt,48,0.459,13,0.233,49,0.068
+245,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (35).txt,13,0.656,14,0.050
+246,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (36).txt,47,0.450,32,0.216,11,0.170
+247,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (4).txt,49,0.408,13,0.201,47,0.110
+248,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (5).txt,41,0.505,11,0.168,13,0.103
+249,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (6).txt,13,0.392,47,0.232,11,0.136,32,0.072,40,0.060
+250,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (7).txt,13,0.566,47,0.229,11,0.065,32,0.054
+251,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (8).txt,47,0.467,13,0.299,11,0.060
+252,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/ParisAttacks2015 (9).txt,13,0.471,47,0.152,49,0.058,11,0.058
+253,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.125.txt,34,0.827
+254,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.126.txt,29,0.575,31,0.355,34,0.067
+255,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.133.txt,34,0.378,22,0.193,14,0.163,35,0.089
+256,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.134.txt,23,0.551,22,0.350
+257,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.137.txt,23,0.659,22,0.235
+258,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.140.txt,35,0.856
+259,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.141.txt,16,0.619,35,0.306
+260,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.142.txt,35,0.796
+261,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.143.txt,35,0.870
+262,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.17.txt,14,0.795,16,0.101
+263,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.21.txt,14,0.520,35,0.222,34,0.115
+264,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.22.txt,44,0.344,14,0.287,22,0.229
+265,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.25.txt,34,0.646,22,0.100
+266,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.26.txt,22,0.418,14,0.090
+267,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.29.txt,22,0.440,34,0.333,14,0.069
+268,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.3.txt,23,0.494,22,0.393
+269,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.4.txt,36,0.483,22,0.232,23,0.200
+270,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.40.txt,14,0.883,35,0.060
+271,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.44.txt,22,0.685,42,0.055,3,0.055
+272,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.5.txt,25,0.674,22,0.256
+273,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.54.txt,23,0.724
+274,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.55.txt,23,0.317,22,0.287,10,0.099,41,0.069
+275,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.56.txt,36,0.539,22,0.207,23,0.121,14,0.073
+276,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.61.txt,22,0.728,25,0.101
+277,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.63.txt,22,0.764,14,0.075
+278,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.64.txt,22,0.620,35,0.107,23,0.068
+279,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.68.txt,22,0.708,35,0.073,34,0.051
+280,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.72.txt,22,0.801
+281,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.73.txt,22,0.420,25,0.167,36,0.155,14,0.082
+282,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.77.txt,25,0.492,22,0.349
+283,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.78.txt,36,0.716,22,0.144
+284,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.79.txt,36,0.722,22,0.216
+285,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.87.txt,35,0.802,22,0.072,14,0.058
+286,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.89.txt,4,0.660,22,0.129,35,0.082
+287,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.9.txt,14,0.609,34,0.062
+288,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.92.txt,16,0.937
+289,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/premier.league.96.txt,14,0.926
+290,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/Rolling.Stones.197.txt,5,0.682,34,0.089
+291,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.1.txt,41,0.438,28,0.290,37,0.094,26,0.082,18,0.052
+292,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.13.txt,17,0.446,39,0.190,28,0.099
+293,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.14.txt,26,0.453,21,0.245,28,0.082,37,0.075
+294,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.15.txt,26,0.517,21,0.345
+295,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.16.txt,26,0.443,21,0.201,28,0.115,12,0.050
+296,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.19.txt,26,0.463,21,0.335
+297,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.2.txt,37,0.788,28,0.206
+298,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.21.txt,26,0.731,6,0.096
+299,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.22.txt,6,0.959
+300,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.25.txt,6,0.254,26,0.203,21,0.203,5,0.051,1,0.051
+301,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.26.txt,26,0.614,37,0.075,12,0.072,6,0.072
+302,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.27.txt,12,0.589,39,0.089,26,0.071,21,0.071
+303,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.28.txt,12,0.987
+304,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.29.txt,39,0.759
+305,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.3.txt,26,0.323,1,0.289,28,0.113,21,0.104
+306,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.30.txt,39,0.948
+307,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.31.txt,17,0.577,21,0.203
+308,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.32.txt,17,0.648,21,0.057
+309,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.33.txt,17,0.692,21,0.143
+310,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.34.txt,39,0.440,21,0.308
+311,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.35.txt,21,0.634,26,0.141,28,0.083
+312,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.36.txt,39,0.735,12,0.070,1,0.065
+313,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.37.txt,42,0.750,21,0.147,28,0.058
+314,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.38.txt,42,0.716,21,0.130,28,0.067,12,0.059
+315,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.39.txt,42,0.740
+316,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.4.txt,18,0.537,21,0.401,28,0.057
+317,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.40.txt,42,0.625,21,0.189,26,0.090
+318,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.41.txt,1,0.885
+319,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.42.txt,1,0.605,5,0.062
+320,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.43.txt,1,0.798
+321,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.44.txt,39,0.405,1,0.330,26,0.050
+322,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.45.txt,1,0.813
+323,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.47.txt,1,0.784
+324,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.6.txt,18,0.498,39,0.136,41,0.081
+325,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/samsung.galaxy.s5.7.txt,28,0.655,21,0.208,26,0.059
+326,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/smartphone.107.txt,12,0.399,39,0.221,44,0.202
+327,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/smartphone.129.txt,6,0.646,39,0.077
+328,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/smartphone.74.txt,1,0.573,6,0.100,39,0.073
+329,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/smartphone.78.txt,1,0.854
+330,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/smartphone.95.txt,1,0.779
+331,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/stephen.hawking.275.txt,41,0.889
+332,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/tohoku.earthquake.tsunami.12.txt,40,0.630,24,0.238
+333,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/tohoku.earthquake.tsunami.14.txt,24,0.650,40,0.112,10,0.074
+334,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/tohoku.earthquake.tsunami.3.txt,24,0.974
+335,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/tohoku.earthquake.tsunami.8.txt,24,0.762,33,0.063
+336,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/tohoku.earthquake.tsunami.9.txt,24,0.868
+337,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/U2.149.txt,5,0.783
+338,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef186/wall.street.51.txt,25,0.961
+339,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/barack.obama.1.txt,43,0.652,19,0.171
+340,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/barack.obama.24.txt,4,0.981
+341,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/barack.obama.3.txt,50,0.841
+342,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/barack.obama.4.txt,9,0.688,50,0.112
+343,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/barack.obama.9.txt,50,0.612,49,0.061
+344,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/cypriot.financial.crisis.36.txt,3,0.948
+345,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/cypriot.financial.crisis.37.txt,3,0.974
+346,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/cypriot.financial.crisis.38.txt,3,0.876
+347,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/cypriot.financial.crisis.39.txt,3,0.751,10,0.141
+348,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/cypriot.financial.crisis.40.txt,3,0.875
+349,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/debt.crisis.greece.178.txt,10,0.702,7,0.142
+350,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/debt.crisis.greece.179.txt,17,0.925
+351,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/debt.crisis.greece.207.txt,5,0.507,10,0.190,27,0.137,7,0.090
+352,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/debt.crisis.greece.263.txt,10,0.924
+353,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/debt.crisis.greece.81.txt,10,0.787
+354,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/greek.elections.112.txt,7,0.515,27,0.308,10,0.091
+355,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/greek.elections.113.txt,7,0.788,27,0.118
+356,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/greek.elections.114.txt,7,0.757,27,0.203
+357,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/greek.elections.115.txt,7,0.837,27,0.102
+358,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/greek.elections.117.txt,27,0.912,7,0.057
+359,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.10.txt,45,0.860
+360,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.13.txt,46,0.821,45,0.136
+361,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.134.txt,40,0.319,45,0.292,46,0.215
+362,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.137.txt,45,0.392,41,0.062,40,0.062,44,0.051
+363,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.14.txt,46,0.820,45,0.141
+364,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.142.txt,45,0.397,40,0.201,46,0.172
+365,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.143.txt,45,0.363,46,0.198
+366,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.15.txt,46,0.758,45,0.158
+367,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.16.txt,45,0.380,46,0.327
+368,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.18.txt,45,0.356,46,0.269,40,0.067
+369,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.21.txt,45,0.328,46,0.244,40,0.210
+370,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.22.txt,45,0.375,40,0.166,46,0.090,44,0.052
+371,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.223.txt,45,0.465,46,0.089,2,0.051
+372,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.225.txt,45,0.333,17,0.079,46,0.059
+373,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.227.txt,45,0.439,46,0.279,40,0.082
+374,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.230.txt,45,0.366,46,0.136,40,0.085,25,0.061
+375,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.236.txt,45,0.401,8,0.077,46,0.066,41,0.056
+376,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.24.txt,45,0.375,40,0.227,46,0.120
+377,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.245.txt,46,0.528,45,0.224
+378,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.25.txt,45,0.437,40,0.177,46,0.120
+379,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.276.txt,45,0.516,7,0.089,32,0.073,46,0.056,13,0.056
+380,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.278.txt,46,0.458,45,0.239,40,0.082
+381,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.29.txt,45,0.403,32,0.101,11,0.053,48,0.051,47,0.051
+382,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.31.txt,45,0.322,46,0.240,40,0.219
+383,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.32.txt,45,0.342,46,0.244,40,0.244
+384,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.34.txt,45,0.376,46,0.131,24,0.086
+385,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.36.txt,45,0.389,46,0.097,1,0.073,40,0.060
+386,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.66.txt,45,0.433,46,0.245,40,0.160
+387,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.70.txt,45,0.342,40,0.295,46,0.156
+388,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.71.txt,45,0.530,1,0.060,40,0.050
+389,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.74.txt,45,0.500,46,0.235,40,0.084
+390,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.75.txt,45,0.618,46,0.177
+391,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.76.txt,45,0.527,46,0.161,40,0.075
+392,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.79.txt,45,0.373,46,0.316
+393,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.83.txt,40,0.309,46,0.236,45,0.209
+394,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.84.txt,46,0.360,45,0.296,40,0.216
+395,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.86.txt,45,0.280,46,0.233,40,0.179
+396,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.9.txt,45,0.850,46,0.050
+397,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/malaysia.airlines.flight.98.txt,40,0.282,45,0.256,46,0.216
+398,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.100.txt,15,0.940
+399,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.101.txt,8,0.691,30,0.111
+400,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.102.txt,43,0.543,11,0.091,25,0.085,30,0.067,13,0.055
+401,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.103.txt,23,0.537,15,0.143,17,0.054
+402,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.109.txt,17,0.625,15,0.145,30,0.119
+403,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.111.txt,19,0.524,30,0.082,40,0.061
+404,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.113.txt,5,0.479,19,0.192
+405,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.114.txt,19,0.678,8,0.169
+406,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.115.txt,20,0.347,19,0.194,5,0.061,30,0.051
+407,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.118.txt,19,0.811
+408,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.12.txt,2,0.987
+409,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.122.txt,30,0.442,33,0.140,19,0.093,15,0.093
+410,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.123.txt,33,0.702,30,0.111,38,0.082
+411,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.127.txt,38,0.967
+412,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.130.txt,20,0.920
+413,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.138.txt,38,0.788,30,0.100
+414,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.139.txt,38,0.656,30,0.205
+415,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.142.txt,40,0.638,15,0.143,30,0.076
+416,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.144.txt,8,0.480,43,0.231,44,0.081,50,0.065
+417,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.146.txt,20,0.446,30,0.309
+418,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.15.txt,48,0.759,30,0.091,19,0.085
+419,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.20.txt,19,0.789,50,0.061
+420,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.22.txt,15,0.746,30,0.130
+421,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.23.txt,43,0.665,19,0.203
+422,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.56.txt,8,0.299,30,0.295,19,0.126,28,0.055
+423,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.62.txt,50,0.618,30,0.211,19,0.061
+424,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.64.txt,44,0.621,30,0.256
+425,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.67.txt,8,0.344,43,0.242,44,0.218
+426,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.70.txt,9,0.785,19,0.102,30,0.090
+427,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.73.txt,44,0.638,30,0.215,9,0.058
+428,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.75.txt,30,0.931
+429,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.79.txt,5,0.610,30,0.260,43,0.072
+430,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.80.txt,50,0.650,30,0.174,5,0.089
+431,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.83.txt,43,0.738,30,0.104
+432,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.86.txt,30,0.608,8,0.228,44,0.063
+433,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.9.txt,30,0.745,9,0.080
+434,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.95.txt,19,0.733,8,0.111,15,0.073
+435,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/michelle.obama.98.txt,15,0.902
+436,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/NBA.draft.2.txt,33,0.980
+437,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (1).txt,32,0.449,13,0.163,11,0.112,49,0.110,47,0.076
+438,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (10).txt,13,0.636,47,0.126,49,0.086
+439,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (11).txt,32,0.641,11,0.177,47,0.104
+440,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (12).txt,49,0.313,32,0.220,13,0.142,11,0.137
+441,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (13).txt,48,0.556,13,0.130,47,0.110
+442,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (14).txt,32,0.535,47,0.222,41,0.051,13,0.051
+443,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (15).txt,47,0.420,13,0.386
+444,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (16).txt,47,0.571,13,0.316
+445,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (17).txt,47,0.268,13,0.219,49,0.161,36,0.149
+446,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (18).txt,36,0.411,47,0.220,13,0.123
+447,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (19).txt,47,0.251,36,0.251,49,0.089,16,0.061,13,0.058
+448,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (2).txt,43,0.293,47,0.120,46,0.098,49,0.092,13,0.087,32,0.060
+449,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (20).txt,49,0.367,47,0.352,5,0.095
+450,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (21).txt,49,0.496,13,0.183,32,0.145,11,0.119
+451,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (22).txt,8,0.611,13,0.160,11,0.156
+452,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (23).txt,11,0.736,32,0.063
+453,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (24).txt,11,0.825
+454,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (25).txt,41,0.686,13,0.080
+455,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (26).txt,32,0.553,11,0.220,47,0.147
+456,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (27).txt,32,0.428,11,0.204,47,0.191
+457,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (28).txt,32,0.390,11,0.283,47,0.099
+458,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (29).txt,47,0.295,13,0.262,32,0.170,11,0.087
+459,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (3).txt,32,0.318,47,0.304,13,0.112,11,0.103,49,0.080
+460,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (30).txt,11,0.282,13,0.279,32,0.174,47,0.058,27,0.056
+461,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (31).txt,32,0.340,47,0.240,11,0.165,13,0.073
+462,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (32).txt,13,0.305,32,0.234,11,0.129
+463,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (33).txt,13,0.303,49,0.169,32,0.157,11,0.064,40,0.056
+464,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (34).txt,48,0.481,13,0.195,49,0.113,47,0.060
+465,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (35).txt,13,0.670,43,0.055
+466,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (36).txt,47,0.450,32,0.177,11,0.143,13,0.071
+467,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (4).txt,49,0.418,13,0.191,47,0.084
+468,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (5).txt,41,0.495,11,0.171,13,0.116
+469,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (6).txt,13,0.388,47,0.221,11,0.133,32,0.086,40,0.062
+470,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (7).txt,13,0.575,47,0.215,11,0.078,32,0.051
+471,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (8).txt,47,0.461,13,0.307,11,0.064
+472,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/ParisAttacks2015 (9).txt,13,0.489,47,0.155,11,0.055,49,0.052
+473,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.125.txt,34,0.842
+474,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.126.txt,29,0.575,31,0.356,34,0.067
+475,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.133.txt,34,0.415,22,0.200,14,0.148,35,0.081
+476,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.134.txt,23,0.581,22,0.316,35,0.062
+477,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.137.txt,23,0.662,22,0.229
+478,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.140.txt,35,0.859
+479,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.141.txt,16,0.612,35,0.302
+480,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.142.txt,35,0.813
+481,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.143.txt,35,0.841
+482,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.17.txt,14,0.792,16,0.110
+483,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.21.txt,14,0.560,35,0.210,34,0.107
+484,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.22.txt,44,0.357,14,0.261,22,0.242
+485,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.25.txt,34,0.669,22,0.108,4,0.077
+486,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.26.txt,22,0.463,23,0.075
+487,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.29.txt,22,0.453,34,0.302,14,0.101
+488,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.3.txt,23,0.482,22,0.378
+489,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.4.txt,36,0.515,22,0.228,23,0.160
+490,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.40.txt,14,0.885,35,0.062
+491,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.44.txt,22,0.685,27,0.055
+492,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.5.txt,25,0.656,22,0.250
+493,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.54.txt,23,0.739,35,0.067
+494,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.55.txt,23,0.366,22,0.277,10,0.069
+495,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.56.txt,36,0.517,22,0.190,23,0.125
+496,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.61.txt,22,0.728,25,0.089
+497,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.63.txt,22,0.752,14,0.067
+498,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.64.txt,22,0.605,35,0.141,34,0.063
+499,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.68.txt,22,0.774,34,0.066
+500,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.72.txt,22,0.804
+501,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.73.txt,22,0.404,36,0.184,25,0.176
+502,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.77.txt,25,0.500,22,0.341
+503,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.78.txt,36,0.718,22,0.154
+504,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.79.txt,36,0.702,22,0.227
+505,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.87.txt,35,0.744,22,0.106,14,0.075
+506,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.89.txt,4,0.646,22,0.122,14,0.061
+507,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.9.txt,14,0.634
+508,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.92.txt,16,0.940
+509,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/premier.league.96.txt,14,0.936
+510,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/Rolling.Stones.197.txt,5,0.698,34,0.089
+511,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.1.txt,41,0.455,28,0.280,37,0.099,26,0.072
+512,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.13.txt,17,0.471,39,0.190,28,0.058,26,0.058
+513,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.14.txt,26,0.459,21,0.245,37,0.073,28,0.062,12,0.056
+514,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.15.txt,26,0.501,21,0.352
+515,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.16.txt,26,0.426,21,0.258,28,0.096,12,0.062
+516,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.19.txt,26,0.446,21,0.329
+517,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.2.txt,37,0.795,28,0.195
+518,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.21.txt,26,0.756,6,0.103
+519,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.22.txt,6,0.966
+520,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.25.txt,21,0.203,26,0.169,6,0.169,39,0.085,1,0.085,12,0.051
+521,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.26.txt,26,0.647,37,0.100,12,0.056,6,0.053
+522,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.27.txt,12,0.536,39,0.107,21,0.054
+523,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.28.txt,12,0.988
+524,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.29.txt,39,0.790
+525,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.3.txt,26,0.366,1,0.234,28,0.134,21,0.121
+526,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.30.txt,39,0.938
+527,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.31.txt,17,0.593,21,0.211
+528,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.32.txt,17,0.659,21,0.114
+529,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.33.txt,17,0.692,21,0.135
+530,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.34.txt,39,0.451,21,0.341
+531,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.35.txt,21,0.649,26,0.134,28,0.076
+532,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.36.txt,39,0.715,1,0.070
+533,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.37.txt,42,0.739,21,0.125,28,0.065
+534,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.38.txt,42,0.705,21,0.134,28,0.054,12,0.054
+535,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.39.txt,42,0.792
+536,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.4.txt,18,0.544,21,0.397,28,0.054
+537,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.40.txt,42,0.630,21,0.183,26,0.103
+538,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.41.txt,1,0.872
+539,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.42.txt,1,0.574,25,0.062
+540,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.43.txt,1,0.826
+541,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.44.txt,39,0.398,1,0.337,44,0.050
+542,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.45.txt,1,0.789
+543,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.47.txt,1,0.770
+544,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.6.txt,18,0.502,39,0.107,41,0.074,1,0.055
+545,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/samsung.galaxy.s5.7.txt,28,0.666,21,0.193
+546,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/smartphone.107.txt,12,0.411,44,0.217,39,0.205
+547,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/smartphone.129.txt,6,0.661,39,0.080
+548,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/smartphone.74.txt,1,0.580,39,0.080,6,0.067
+549,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/smartphone.78.txt,1,0.892
+550,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/smartphone.95.txt,1,0.792
+551,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/stephen.hawking.275.txt,41,0.900
+552,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/tohoku.earthquake.tsunami.12.txt,40,0.619,24,0.238
+553,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/tohoku.earthquake.tsunami.14.txt,24,0.657,40,0.125,10,0.081
+554,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/tohoku.earthquake.tsunami.3.txt,24,0.964
+555,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/tohoku.earthquake.tsunami.8.txt,24,0.714,33,0.063
+556,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/tohoku.earthquake.tsunami.9.txt,24,0.844
+557,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/U2.149.txt,5,0.793
+558,/Users/akash/Downloads/Datasets/./WikiRef_dataset/WikiRef220/wall.street.51.txt,25,0.958

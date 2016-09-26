@@ -1,0 +1,803 @@
+{"doc":[
+  {
+    "topicId": 1,
+    "words": "management treatment clinical review patient article"
+  },
+  {
+    "topicId": 2,
+    "words": "world flag time nixon olympic athletes"
+  },
+  {
+    "topicId": 3,
+    "words": "pain sleep disorders cancer stress mental"
+  },
+  {
+    "topicId": 4,
+    "words": "race romney massachusetts swift governor weeks"
+  },
+  {
+    "topicId": 5,
+    "words": "oscar awards year won award academy"
+  },
+  {
+    "topicId": 6,
+    "words": "russia russian union soviet putin moscow"
+  },
+  {
+    "topicId": 7,
+    "words": "steel trade industry tariffs thursday world"
+  },
+  {
+    "topicId": 8,
+    "words": "bush president house white democrats administration"
+  },
+  {
+    "topicId": 9,
+    "words": "rubin citigroup treasury policy public weill"
+  },
+  {
+    "topicId": 10,
+    "words": "injury brain tbi traumatic rehabilitation severe"
+  },
+  {
+    "topicId": 11,
+    "words": "skating gold ice figure kwan hughes"
+  },
+  {
+    "topicId": 12,
+    "words": "plan cut part expected months program"
+  },
+  {
+    "topicId": 13,
+    "words": "time man father life friends woman"
+  },
+  {
+    "topicId": 14,
+    "words": "treatment studies trials evidence controlled review"
+  },
+  {
+    "topicId": 15,
+    "words": "review reviews movie daily film thursday"
+  },
+  {
+    "topicId": 16,
+    "words": "outcome injury patients brain severe traumatic"
+  },
+  {
+    "topicId": 17,
+    "words": "upper lower hand limb anesthesia eyelid"
+  },
+  {
+    "topicId": 18,
+    "words": "pitch degrees perfect range temperature notes"
+  },
+  {
+    "topicId": 19,
+    "words": "options olfactory year fariba money good"
+  },
+  {
+    "topicId": 20,
+    "words": "case report patient year presented rare"
+  },
+  {
+    "topicId": 21,
+    "words": "magazine advertising media ads part division"
+  },
+  {
+    "topicId": 22,
+    "words": "information york times news article service"
+  },
+  {
+    "topicId": 23,
+    "words": "film movie films movies series television"
+  },
+  {
+    "topicId": 24,
+    "words": "back don big time play didn"
+  },
+  {
+    "topicId": 25,
+    "words": "music songs album band song country"
+  },
+  {
+    "topicId": 26,
+    "words": "theater broadway show play stage production"
+  },
+  {
+    "topicId": 27,
+    "words": "women men work welfare poor people"
+  },
+  {
+    "topicId": 28,
+    "words": "risk factors study injury analysis results"
+  },
+  {
+    "topicId": 29,
+    "words": "surgery patients surgical complications csf repair"
+  },
+  {
+    "topicId": 30,
+    "words": "therapy infection complications patient infections days"
+  },
+  {
+    "topicId": 31,
+    "words": "art museum history artists culture time"
+  },
+  {
+    "topicId": 32,
+    "words": "saudi arabia year washington sunday week"
+  },
+  {
+    "topicId": 33,
+    "words": "motor task subjects training control recovery"
+  },
+  {
+    "topicId": 34,
+    "words": "water heat taste large small place"
+  },
+  {
+    "topicId": 35,
+    "words": "radio station experience online channel high"
+  },
+  {
+    "topicId": 36,
+    "words": "film war review minutes peter language"
+  },
+  {
+    "topicId": 37,
+    "words": "cells disease cell human blood diseases"
+  },
+  {
+    "topicId": 38,
+    "words": "model impact analysis data study models"
+  },
+  {
+    "topicId": 39,
+    "words": "car front power drive rear engine"
+  },
+  {
+    "topicId": 40,
+    "words": "company companies business market industry customers"
+  },
+  {
+    "topicId": 41,
+    "words": "injuries injury trauma cases common related"
+  },
+  {
+    "topicId": 42,
+    "words": "music artists record industry recording label"
+  },
+  {
+    "topicId": 43,
+    "words": "concussion athletes sports players impact sport"
+  },
+  {
+    "topicId": 44,
+    "words": "death cases died deaths forensic body"
+  },
+  {
+    "topicId": 45,
+    "words": "food minutes add cooking cook eat"
+  },
+  {
+    "topicId": 46,
+    "words": "participants rehabilitation measures study results scale"
+  },
+  {
+    "topicId": 47,
+    "words": "implant dental plate implants months fixation"
+  },
+  {
+    "topicId": 48,
+    "words": "people don good work things time"
+  },
+  {
+    "topicId": 49,
+    "words": "officials afghanistan qaida war laden taliban"
+  },
+  {
+    "topicId": 50,
+    "words": "free canada stories pitch site perfect"
+  },
+  {
+    "topicId": 51,
+    "words": "move scheduled stories undated file receive"
+  },
+  {
+    "topicId": 52,
+    "words": "european europe germany british french britain"
+  },
+  {
+    "topicId": 53,
+    "words": "problem problems single standard history interest"
+  },
+  {
+    "topicId": 54,
+    "words": "school university students schools year college"
+  },
+  {
+    "topicId": 55,
+    "words": "undated travel words photo york feb"
+  },
+  {
+    "topicId": 56,
+    "words": "black white people brown african optional"
+  },
+  {
+    "topicId": 57,
+    "words": "subdural hematoma intracranial hemorrhage acute chronic"
+  },
+  {
+    "topicId": 58,
+    "words": "son years family day life time"
+  },
+  {
+    "topicId": 59,
+    "words": "palestinian israeli israel arafat peace palestinians"
+  },
+  {
+    "topicId": 60,
+    "words": "room house red home club small"
+  },
+  {
+    "topicId": 61,
+    "words": "life social quality emotional relationship person"
+  },
+  {
+    "topicId": 62,
+    "words": "argentina government bank country banks dollar"
+  },
+  {
+    "topicId": 63,
+    "words": "san francisco valley business area wal"
+  },
+  {
+    "topicId": 64,
+    "words": "distance miller bed days time part"
+  },
+  {
+    "topicId": 65,
+    "words": "white blacks black african racial america"
+  },
+  {
+    "topicId": 66,
+    "words": "face skin burns tissue burn wound"
+  },
+  {
+    "topicId": 67,
+    "words": "andersen documents firm wednesday investigation investigators"
+  },
+  {
+    "topicId": 68,
+    "words": "beach post palm book photos moved"
+  },
+  {
+    "topicId": 69,
+    "words": "bankruptcy bill twain burns credit bankruptcies"
+  },
+  {
+    "topicId": 70,
+    "words": "infants development weeks birth hewlett cases"
+  },
+  {
+    "topicId": 71,
+    "words": "years organ heart year twin week"
+  },
+  {
+    "topicId": 72,
+    "words": "york undated news service nyt column"
+  },
+  {
+    "topicId": 73,
+    "words": "space design found light science sun"
+  },
+  {
+    "topicId": 74,
+    "words": "atlanta book journal constitution review books"
+  },
+  {
+    "topicId": 75,
+    "words": "case court trial charges death prison"
+  },
+  {
+    "topicId": 76,
+    "words": "una como tiene fue ser informacion"
+  },
+  {
+    "topicId": 77,
+    "words": "lee jones tyson boxing years fight"
+  },
+  {
+    "topicId": 78,
+    "words": "atlanta journal constitution moved news cox"
+  },
+  {
+    "topicId": 79,
+    "words": "head injury trauma injuries neck helmet"
+  },
+  {
+    "topicId": 80,
+    "words": "www island day ship miles trip"
+  },
+  {
+    "topicId": 81,
+    "words": "artery cerebral stroke carotid traumatic middle"
+  },
+  {
+    "topicId": 82,
+    "words": "show network television nbc disney abc"
+  },
+  {
+    "topicId": 83,
+    "words": "afghanistan afghan taliban government kabul karzai"
+  },
+  {
+    "topicId": 84,
+    "words": "texas star telegram worth fort austin"
+  },
+  {
+    "topicId": 85,
+    "words": "pituitary dysfunction growth hormone normal function"
+  },
+  {
+    "topicId": 86,
+    "words": "nytimes news page times stories mail"
+  },
+  {
+    "topicId": 87,
+    "words": "imaging mri magnetic resonance brain matter"
+  },
+  {
+    "topicId": 88,
+    "words": "optional trim end begin director university"
+  },
+  {
+    "topicId": 89,
+    "words": "year service mexico immigration mexican government"
+  },
+  {
+    "topicId": 90,
+    "words": "internet web digital music online site"
+  },
+  {
+    "topicId": 91,
+    "words": "phillips year galliano line site miss"
+  },
+  {
+    "topicId": 92,
+    "words": "million state money project year officials"
+  },
+  {
+    "topicId": 93,
+    "words": "long term short early late exercise"
+  },
+  {
+    "topicId": 94,
+    "words": "family home people day job work"
+  },
+  {
+    "topicId": 95,
+    "words": "central damage system nervous injury cns"
+  },
+  {
+    "topicId": 96,
+    "words": "police pearl people officers man street"
+  },
+  {
+    "topicId": 97,
+    "words": "accounting financial companies investors stock corporate"
+  },
+  {
+    "topicId": 98,
+    "words": "symptoms post mild depression disorder reported"
+  },
+  {
+    "topicId": 99,
+    "words": "wine wines cult years california found"
+  },
+  {
+    "topicId": 100,
+    "words": "news service moving editor coxnews cox"
+  },
+  {
+    "topicId": 101,
+    "words": "farmers farm corn rice world food"
+  },
+  {
+    "topicId": 102,
+    "words": "fuel cars vehicles vehicle ford car"
+  },
+  {
+    "topicId": 103,
+    "words": "arizona phoenix time high republic international"
+  },
+  {
+    "topicId": 104,
+    "words": "law court federal government legal case"
+  },
+  {
+    "topicId": 105,
+    "words": "fractures orbital fracture reduction facial treatment"
+  },
+  {
+    "topicId": 106,
+    "words": "year high power early deal electric"
+  },
+  {
+    "topicId": 107,
+    "words": "series car racing time year drivers"
+  },
+  {
+    "topicId": 108,
+    "words": "air apoe disease risk alzheimer dementia"
+  },
+  {
+    "topicId": 109,
+    "words": "words undated photo clients stories moved"
+  },
+  {
+    "topicId": 110,
+    "words": "speech people state ways part events"
+  },
+  {
+    "topicId": 111,
+    "words": "cognitive memory test performance neuropsychological tests"
+  },
+  {
+    "topicId": 112,
+    "words": "words jan york undated nyt students"
+  },
+  {
+    "topicId": 113,
+    "words": "africa south zimbabwe african region people"
+  },
+  {
+    "topicId": 114,
+    "words": "bush china north korea chinese south"
+  },
+  {
+    "topicId": 115,
+    "words": "fashion dress wear black year white"
+  },
+  {
+    "topicId": 116,
+    "words": "lead paint public companies williams based"
+  },
+  {
+    "topicId": 117,
+    "words": "strauss levine central news songs agency"
+  },
+  {
+    "topicId": 118,
+    "words": "king church martin luther mlk harlem"
+  },
+  {
+    "topicId": 119,
+    "words": "million company billion shares year share"
+  },
+  {
+    "topicId": 120,
+    "words": "years age population related older data"
+  },
+  {
+    "topicId": 121,
+    "words": "tax budget year billion cuts spending"
+  },
+  {
+    "topicId": 122,
+    "words": "book books life house week john"
+  },
+  {
+    "topicId": 123,
+    "words": "los angeles move california sports file"
+  },
+  {
+    "topicId": 124,
+    "words": "states afghanistan months united local people"
+  },
+  {
+    "topicId": 125,
+    "words": "jazz wild playing women female band"
+  },
+  {
+    "topicId": 126,
+    "words": "important considered generally point driving shift"
+  },
+  {
+    "topicId": 127,
+    "words": "workers jobs job years employees people"
+  },
+  {
+    "topicId": 128,
+    "words": "children child pediatric age abuse childhood"
+  },
+  {
+    "topicId": 129,
+    "words": "military forces war army soldiers special"
+  },
+  {
+    "topicId": 130,
+    "words": "system spinal cord cervical based data"
+  },
+  {
+    "topicId": 131,
+    "words": "chile trade fruit growers chilean free"
+  },
+  {
+    "topicId": 132,
+    "words": "feb york times nyt left utah"
+  },
+  {
+    "topicId": 133,
+    "words": "research information important process harvard approach"
+  },
+  {
+    "topicId": 134,
+    "words": "economy economic recovery rate recession rates"
+  },
+  {
+    "topicId": 135,
+    "words": "state campaign republican democratic governor election"
+  },
+  {
+    "topicId": 136,
+    "words": "time aol warner cable media month"
+  },
+  {
+    "topicId": 137,
+    "words": "time change improvement improved effect significant"
+  },
+  {
+    "topicId": 138,
+    "words": "canadian spears fat time britney good"
+  },
+  {
+    "topicId": 139,
+    "words": "irish green day patrick ireland march"
+  },
+  {
+    "topicId": 140,
+    "words": "grade high hamilton music monkey murray"
+  },
+  {
+    "topicId": 141,
+    "words": "show young teen star age elvis"
+  },
+  {
+    "topicId": 142,
+    "words": "political party government public country support"
+  },
+  {
+    "topicId": 143,
+    "words": "super bowl orleans england sunday patriots"
+  },
+  {
+    "topicId": 144,
+    "words": "brain levels serum injury patients protein"
+  },
+  {
+    "topicId": 145,
+    "words": "states united american america years cuba"
+  },
+  {
+    "topicId": 146,
+    "words": "movie rated directed starring tom violence"
+  },
+  {
+    "topicId": 147,
+    "words": "nuclear waste department fuel material mountain"
+  },
+  {
+    "topicId": 148,
+    "words": "group groups control study compared significant"
+  },
+  {
+    "topicId": 149,
+    "words": "computer software system technology microsoft systems"
+  },
+  {
+    "topicId": 150,
+    "words": "nyt map graphics service weekly locator"
+  },
+  {
+    "topicId": 151,
+    "words": "year sport tuesday snowboarding ski run"
+  },
+  {
+    "topicId": 152,
+    "words": "auction washington sold sale wright american"
+  },
+  {
+    "topicId": 153,
+    "words": "radiation flap tumor dose treatment brain"
+  },
+  {
+    "topicId": 154,
+    "words": "wrote made wife called father began"
+  },
+  {
+    "topicId": 155,
+    "words": "dance ballet dancers music company show"
+  },
+  {
+    "topicId": 156,
+    "words": "enron company lay energy houston collapse"
+  },
+  {
+    "topicId": 157,
+    "words": "human power body legs control pin"
+  },
+  {
+    "topicId": 158,
+    "words": "music orchestra opera symphony hall center"
+  },
+  {
+    "topicId": 159,
+    "words": "beach palm post fla year florida"
+  },
+  {
+    "topicId": 160,
+    "words": "nerve facial optic muscle palsy surgical"
+  },
+  {
+    "topicId": 161,
+    "words": "event show audience crowd rodeo night"
+  },
+  {
+    "topicId": 162,
+    "words": "friday tour time golf year faces"
+  },
+  {
+    "topicId": 163,
+    "words": "line toy toys game fall popular"
+  },
+  {
+    "topicId": 164,
+    "words": "israel christian based jews god american"
+  },
+  {
+    "topicId": 165,
+    "words": "world japan forum economic years system"
+  },
+  {
+    "topicId": 166,
+    "words": "writing business book century published writers"
+  },
+  {
+    "topicId": 167,
+    "words": "city street park hotel open visitors"
+  },
+  {
+    "topicId": 168,
+    "words": "corps relief aid dog dogs school"
+  },
+  {
+    "topicId": 169,
+    "words": "percent year quarter sales fourth growth"
+  },
+  {
+    "topicId": 170,
+    "words": "game team season coach players games"
+  },
+  {
+    "topicId": 171,
+    "words": "health care medical services hospital costs"
+  },
+  {
+    "topicId": 172,
+    "words": "bone mandibular fracture treatment oral sinus"
+  },
+  {
+    "topicId": 173,
+    "words": "story newspapers filed cox writes phone"
+  },
+  {
+    "topicId": 174,
+    "words": "left hand handed gene handedness humans"
+  },
+  {
+    "topicId": 175,
+    "words": "city york center sept trade mayor"
+  },
+  {
+    "topicId": 176,
+    "words": "book beach american post review books"
+  },
+  {
+    "topicId": 177,
+    "words": "estate market buy real weather people"
+  },
+  {
+    "topicId": 178,
+    "words": "lake salt city olympics olympic oly"
+  },
+  {
+    "topicId": 179,
+    "words": "los para con dice del por"
+  },
+  {
+    "topicId": 180,
+    "words": "story life sense man end point"
+  },
+  {
+    "topicId": 181,
+    "words": "puerto outlook times america future year"
+  },
+  {
+    "topicId": 182,
+    "words": "india indian pakistan kashmir years earth"
+  },
+  {
+    "topicId": 183,
+    "words": "color times variety american scientific special"
+  },
+  {
+    "topicId": 184,
+    "words": "moved everglades people military ground past"
+  },
+  {
+    "topicId": 185,
+    "words": "energy power gas oil environmental air"
+  },
+  {
+    "topicId": 186,
+    "words": "percent market stock stocks index points"
+  },
+  {
+    "topicId": 187,
+    "words": "patients trauma mortality care hospital injury"
+  },
+  {
+    "topicId": 188,
+    "words": "washington news category filed column houston"
+  },
+  {
+    "topicId": 189,
+    "words": "patients brain lesions cortex frontal temporal"
+  },
+  {
+    "topicId": 190,
+    "words": "united states bush japan world countries"
+  },
+  {
+    "topicId": 191,
+    "words": "security government information public time terrorists"
+  },
+  {
+    "topicId": 192,
+    "words": "state county building site buildings area"
+  },
+  {
+    "topicId": 193,
+    "words": "york nyt times jan left year"
+  },
+  {
+    "topicId": 194,
+    "words": "time celebrities bags style gift fashion"
+  },
+  {
+    "topicId": 195,
+    "words": "airlines flight united air airline airport"
+  },
+  {
+    "topicId": 196,
+    "words": "eye visual eyes ocular acuity corneal"
+  },
+  {
+    "topicId": 197,
+    "words": "book books anderson moving olympics categories"
+  },
+  {
+    "topicId": 198,
+    "words": "patients study results methods clinical conclusion"
+  },
+  {
+    "topicId": 199,
+    "words": "fish patterns found nature species wildlife"
+  },
+  {
+    "topicId": 200,
+    "words": "pressure brain cerebral icp intracranial patients"
+  }
+]
+}

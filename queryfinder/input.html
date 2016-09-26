@@ -1,0 +1,51 @@
+<html>
+
+<script type="text/javascript">
+    function submitform(){
+        var formData = new FormData();
+formData.append('key1','value1');
+formData.append('key2','value2');
+
+// Display the key/value pairs
+for (var pair of formData.entries())
+{
+ console.log(pair[0]+ ', '+ pair[1]); 
+}
+        console.log("Sending Json");
+        var xhr = new XMLHttpRequest();
+        xhr.open(form.method, form.action, true);
+        xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+        console.log(JSON.stringify(j));
+        var j = {
+            "first_name":"binchen",
+            "last_name":"heris",
+        };
+        xhr.send(JSON.stringify(j));
+}</script>
+<head><title>test</title></head>
+<body>
+<form  action="http://localhost:5000/app" method="POST" name="myForm">
+
+<p><label for="first_name">First Name:</label>
+<input type="text" name="first_name" id="fname"></p>
+
+<p><label for="last_name">Last Name:</label>
+<input type="text" name="last_name" id="lname"></p>
+
+<input value="Submit" type="submit">
+</form></body></html>
+
+
+<script type="text/javascript">
+    function submitform(){
+        console.log("Sending Json");
+        var xhr = new XMLHttpRequest();
+        xhr.open(form.method, form.action, true);
+        xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+        console.log(JSON.stringify(j));
+        var j = {
+            "first_name":"binchen",
+            "last_name":"heris",
+        };
+        xhr.send(JSON.stringify(j));
+}
